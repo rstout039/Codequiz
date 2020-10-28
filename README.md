@@ -8,9 +8,9 @@ If the user scores a different score then that score will also be recorded with 
 Each question answered wrong deducts 15 seconds off the clock with the alotted time of 56 seconds.
 The user has 3-5 answers to choose from for each question.
 This quiz includes multiple js and html files with one css file.
-https://github.com/rstout039/Codequiz/blob/main/Codequiz/html
+https://github.com/rstout039/Codequiz/blob/main/Codequiz/index.html
 https://github.com/rstout039/Codequiz/blob/main/Codequiz/highscores.html
-https://github.com/rstout039/Codequiz/blob/main/Codequiz/js
+https://github.com/rstout039/Codequiz/blob/main/Codequiz/index.js
 https://github.com/rstout039/Codequiz/blob/main/Codequiz/scores.js
 https://github.com/rstout039/Codequiz/blob/main/Codequiz/questions.js
-https://github.com/rstout039/Codequiz/blob/main/Codequiz/css
+https://github.com/rstout039/Codequiz/blob/main/Codequiz/style.css
