@@ -14,3 +14,4 @@ https://github.com/rstout039/Codequiz/blob/main/Codequiz/js
 https://github.com/rstout039/Codequiz/blob/main/Codequiz/scores.js
 https://github.com/rstout039/Codequiz/blob/main/Codequiz/questions.js
 https://github.com/rstout039/Codequiz/blob/main/Codequiz/css
+file:///C:/Users/Den%20Computer/Prework.AFH/rstout039.github.io/.vscode/bootstrap/Codequiz.html
